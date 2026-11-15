@@ -3,6 +3,7 @@ message: "If you use HoloLab10.easy in teaching or research, please cite it as b
 type: software
 title: "HoloLab10.easy: Interactive 3D WebGL Virtual Laboratory and Digital Twin for Digital Holography"
 version: "1.0.0"
+doi: "10.5281/zenodo.24255659"
 date-released: "2026-11-15"
 license: CC-BY-NC-SA-4.0
 repository-code: "https://github.com/dudbilopr/hololab-10easy"

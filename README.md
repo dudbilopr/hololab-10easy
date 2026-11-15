@@ -1,5 +1,8 @@
 # HoloLab10.easy — Interactive 3D Virtual Digital Holography Laboratory
 
+[![DOI](https://zenodo.org/badge/1459118076.svg)](https://doi.org/10.5281/zenodo.24255658)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](LICENSE)
+
 Web-ready deployment bundle of **`HoloLab10.easy`**, an interactive Three.js / WebGL 3D digital twin for digital holography education and optical bench verification, paired numerically with [`holom-core`](https://github.com/dudbilopr/holom-core).
 
 ## Optical Setups Included
