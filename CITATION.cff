@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use HoloLab10.easy in teaching or research, please cite it as below."
+type: software
+title: "HoloLab10.easy: Interactive 3D WebGL Virtual Laboratory and Digital Twin for Digital Holography"
+version: "1.0.0"
+date-released: "2026-11-15"
+license: CC-BY-NC-SA-4.0
+repository-code: "https://github.com/dudbilopr/hololab-10easy"
+url: "https://dudbilopr.github.io/hololab-10easy/"
+authors:
+  - family-names: "Pabón Riaño"
+    given-names: "Dudbil Olvasada"
+    orcid: "https://orcid.org/0000-0001-7239-3497"
+    email: "dudbilopr@gmail.com"
+keywords:
+  - digital holography
+  - virtual laboratory
+  - three.js
+  - webgl
+  - physics education
+  - optical twin
